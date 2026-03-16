@@ -36,6 +36,8 @@ flutter:
     - family: SpaceGrotesk
       fonts:
         - asset: assets/fonts/SpaceGrotesk-VariableFont_wght.ttf
+  assets:
+    - assets/icons/
 
 flutter_launcher_icons:
   android: "launcher_icon"
